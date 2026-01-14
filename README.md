@@ -20,13 +20,13 @@ We utilize a unique **AI-Assisted Red Teaming** methodology, deploying tools lik
 
 ### 1. The Teleparallel Collapse Model
 *Applying Einstein's Teleparallelism to the Quantum Measurement Problem.*
-* **[INSERT TITLE FOR 18242466 HERE]**
+* **[Gravitational Record Formation - A Stochastic Collapse Model Driven by Teleparallel Torsion]**
 * **Innovation:** Identifies the distinguishability functional as the weak-field limit of the **Torsion Scalar** in Einstein’s Teleparallel Equivalent of General Relativity (TEGR).
 * 🔗 **[Read on Zenodo](https://doi.org/10.5281/zenodo.18242466)**
 
 ### 2. The Stability Framework
 *Auditing the mathematical health of relativistic theories in the flat-space limit.*
-* **[INSERT TITLE FOR 18238168 HERE]**
+* **[Operational Viability and Consistency of Relativistic Field Theories in the Minkowski Limit: A Candidate Audit for the CST Framework]**
 * **Key Finding:** Validated stability of Ghost Condensates via higher-order dispersion terms and established the "CST Gate" system.
 * 🔗 **[Read on Zenodo](https://doi.org/10.5281/zenodo.18238168)**
 
@@ -35,10 +35,10 @@ We utilize a unique **AI-Assisted Red Teaming** methodology, deploying tools lik
 ## 🗄️ Foundational & Precursor Studies
 *Earlier formulations and exploratory research that led to our current models.*
 
-* **[INSERT TITLE FOR 18235508 HERE]**
+* **[CST: Causality-Stability Testing for Relativistic Field Theories (Minkowski Reference Implementation)]**
   * 🔗 **[Read on Zenodo](https://doi.org/10.5281/zenodo.18235508)**
 
-* **[INSERT TITLE FOR 18215905 HERE]**
+* **[A Luminal, Symmetry-Grounded Dark Energy Mechanism from Kinetic Gravity Braiding (Paper 7 of the Physics Compiler Series)]**
   * 🔗 **[Read on Zenodo](https://doi.org/10.5281/zenodo.18215905)**
 
 ---
