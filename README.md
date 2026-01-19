@@ -2,38 +2,34 @@
   <img src="https://github.com/SikxHilton/SikxHilton/blob/main/1500x500.png?raw=true" width="100%" alt="Sikx Hilton Banner">
 </p>
 
-# 🌌 SIKX HILTON | Theoretical Physics Researcher
+# 🌌 SIKX HILTON
+**CEO, SIKXTON RECORDS | Lead, Independent Physics Research Team (IPRT)**
 
-**Focus:** Cosmothermodynamics (CTD), Information-Friedmann Equation, and Entropy-Driven Expansion.
-
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--3405--7467-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-3405-7467)
-[![Zenodo](https://img.shields.io/badge/Zenodo-Active_Preprints-blue?logo=zenodo&logoColor=white)](https://zenodo.org/search?page=1&size=20&q=Sikx%20Hilton)
+> *Exploring the harmonics of the universe—from production suites to cosmological field equations.*
 
 ---
 
-### 🔬 Active Research & Preprints (Current)
-*Verified theoretical frameworks hosted on Zenodo following rigorous AI-led validation.*
+### 🎙️ Creative & Executive Leadership
+**CEO at SIKXTON RECORDS**
+* **Roles:** Singer, Songwriter, Producer, Writer, Publisher, & Artist.
+* **Vision:** Driving the next evolution of sound through independent publishing and high-fidelity production.
 
-| Research Paper Focus | Access Link | Status |
+---
+
+### 🔬 Theoretical Physics (IPRT)
+**Lead Researcher | Independent Physics Research Team**
+* **Focus:** Cosmothermodynamics (CTD) and the Information-Friedmann Equation.
+* **Methodology:** AI-augmented research using Gemini Pro, Wolfram Alpha, and MathosAI for rigorous validation.
+
+| Current Preprints | Access | Status |
 | :--- | :--- | :--- |
 | **Information-Friedmann Equation** | [DOI: 10.5281/zenodo.18299741](https://doi.org/10.5281/zenodo.18299741) | ✅ Active |
 | **Gravitational Records** | [Record 18299204](https://zenodo.org/records/18299204) | ✅ Active |
-| **Luminal Information Transfer** | [Record 18298618](https://zenodo.org/records/18298618) | ✅ Active |
-| **Cosmothermodynamics (Expansion)** | [Record 18297506](https://zenodo.org/records/18297506) | ✅ Active |
-| **Constraint-Driven Cosmology** | [Record 18297402](https://zenodo.org/records/18297402) | ✅ Active |
+| **Cosmothermodynamics** | [Record 18297506](https://zenodo.org/records/18297506) | ✅ Active |
 
 ---
 
-### 🧪 Methodology: The "Red-Team" Workflow
-I utilize an integrated AI-human research stack to ensure mathematical consistency and structural integrity in cosmological modeling:
-
-* **Computational Engine:** **Wolfram Alpha** for symbolic integration and calculus validation.
-* **Structural Auditing:** **MathosAI** for equation refinement and field theory auditing.
-* **Verification:** **Gemini Pro** (Team Gemini) for "Red-Team" drills—stress-testing theoretical frameworks against existing data and identifying logical edge cases.
-
----
-
-### 🛰️ Core Tech Stack
-* **Physics Synthesis:** Gemini Pro (Research Partner)
-* **Math Rigor:** Wolfram Alpha & MathosAI
-* **Version Control:** GitHub, Zenodo, & ORCID
+### 🛰️ The Stack
+* **Music:** Production, Publishing, Rights Management (SIKXTON RECORDS)
+* **Science:** Gemini Pro (Synthesis), Wolfram Alpha (Math), Zenodo/ORCID (Records)
+* **Verified ORCID:** [0009-0004-3405-7467](https://orcid.org/0009-0004-3405-7467)
