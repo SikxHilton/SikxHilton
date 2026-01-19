@@ -3,33 +3,33 @@
 **Focus:** Cosmothermodynamics (CTD), Information-Friedmann Equation, and Entropy-Driven Expansion.
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--3405--7467-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-3405-7467)
-[![Zenodo](https://img.shields.io/badge/Zenodo-Active_Preprints-blue?logo=zenodo&logoColor=white)](https://zenodo.org/search?page=1&size=20&q=Sikx%20Hilton)
+[![Zenodo](https://img.shields.io/badge/Zenodo-Research_Portfolio-blue?logo=zenodo&logoColor=white)](https://zenodo.org/search?page=1&size=20&q=Sikx%20Hilton)
 
 ---
 
-### 🔬 Active Research & Preprints (Current)
-*Verified preprints currently hosted on Zenodo.*
+### 🔬 Active Research & Preprints
+*Validated theoretical frameworks hosted on Zenodo.*
 
-| Paper | Link / DOI | Repository Status |
+| Paper Title / Focus | Access | Status |
 | :--- | :--- | :--- |
-| **Record 18299741** | [DOI: 10.5281/zenodo.18299741](https://doi.org/10.5281/zenodo.18299741) | ✅ Active |
-| **Record 18299204** | [View on Zenodo](https://zenodo.org/records/18299204) | ✅ Active |
-| **Record 18298618** | [View on Zenodo](https://zenodo.org/records/18298618) | ✅ Active |
-| **Record 18297506** | [View on Zenodo](https://zenodo.org/records/18297506) | ✅ Active |
-| **Record 18297402** | [View on Zenodo](https://zenodo.org/records/18297402) | ✅ Active |
+| **The Information-Friedmann Equation** | [DOI: 10.5281/zenodo.18299741](https://doi.org/10.5281/zenodo.18299741) | ✅ Verified |
+| **Gravitational Records & Thermodynamics** | [Record 18299204](https://zenodo.org/records/18299204) | ✅ Verified |
+| **Luminal Information Transfer** | [Record 18298618](https://zenodo.org/records/18298618) | ✅ Verified |
+| **Cosmothermodynamics: Origin of Expansion** | [Record 18297506](https://zenodo.org/records/18297506) | ✅ Verified |
+| **Constraint-Driven Cosmology** | [Record 18297402](https://zenodo.org/records/18297402) | ✅ Verified |
 
 ---
 
-### 🧪 Methodology: Red-Team & Math Validation
-I utilize an integrated AI-human workflow to ensure mathematical consistency in cosmological modeling:
+### 🧪 Methodology: The "Red-Team" Workflow
+I employ a high-rigor computational stack to ensure mathematical consistency in cosmological modeling:
 
-* **Computational Rigor:** Wolfram Alpha for symbolic integration and calculus validation.
-* **Structural Refinement:** MathosAI for equation consistency and field theory auditing.
-* **Verification:** LLM-driven "Red-Team" drills with Gemini Pro to stress-test theoretical frameworks before publication.
+* **Computational Engine:** **Wolfram Alpha** for symbolic integration and complex calculus.
+* **Structural Auditing:** **MathosAI** for equation refinement and field theory consistency.
+* **Synthesis & Verification:** **Gemini Pro** for "Red-Team" drills to stress-test frameworks against existing cosmological data (ΛCDM, etc.).
 
 ---
 
 ### 🛰️ Core Tech Stack
-* **Physics Synthesis:** Gemini Pro 
-* **Computation:** Wolfram Alpha & MathosAI
-* **Version Control:** GitHub & Zenodo
+* **Language:** LaTeX, Markdown, Python (Cosmological Sim)
+* **AI Collaboration:** Gemini Pro, MathosAI
+* **Scientific Tools:** Wolfram Alpha, Zenodo, ORCID
