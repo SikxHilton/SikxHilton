@@ -1,51 +1,35 @@
-# Independent Physics Research Team (IPRT)
+# 🌌 SIKX HILTON | Theoretical Physics Researcher
 
-**Lead Investigator:** Sikx Hilton  
-**Focus:** Relativistic Field Theories, Teleparallel Gravity, and Quantum Foundations  
-**Status:** Active | 🟢 Open for Collaboration
+**Focus:** Cosmothermodynamics (CTD), Information-Friedmann Equation, and Entropy-Driven Expansion.
 
-[![Zenodo](https://img.shields.io/badge/Zenodo-Portfolio-blue.svg)](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22SIKX%20HILTON%22&l=list&p=1&s=10&sort=bestmatch)
-[![GitHub](https://img.shields.io/badge/GitHub-SikxHilton-181717.svg)](https://github.com/SikxHilton)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--3405--7467-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-3405-7467)
+[![Zenodo](https://img.shields.io/badge/Zenodo-Active_Preprints-blue?logo=zenodo&logoColor=white)](https://zenodo.org/search?page=1&size=20&q=Sikx%20Hilton)
 
 ---
 
-## 🔬 Mission Statement
-The **Independent Physics Research Team (IPRT)** investigates the "Minkowski Limit" of extended gravity theories. Our goal is to rigorously audit theoretical extensions to General Relativity and develop phenomenological models that resolve conflicts between gravity and quantum mechanics.
+### 🔬 Active Research & Preprints (Current)
+*Verified preprints currently hosted on Zenodo.*
 
-We utilize a unique **AI-Assisted Red Teaming** methodology, deploying tools like Julius AI and the internal **Causality-Stability Tester (CST)** framework to stress-test mathematical consistency before publication.
-
----
-
-## 🏆 Flagship Research Portfolio
-
-### 1. The Teleparallel Collapse Model
-*Applying Einstein's Teleparallelism to the Quantum Measurement Problem.*
-* **[Gravitational Record Formation - A Stochastic Collapse Model Driven by Teleparallel Torsion]**
-* **Innovation:** Identifies the distinguishability functional as the weak-field limit of the **Torsion Scalar** in Einstein’s Teleparallel Equivalent of General Relativity (TEGR).
-* 🔗 **[Read on Zenodo](https://doi.org/10.5281/zenodo.18242466)**
-
-### 2. The Stability Framework
-*Auditing the mathematical health of relativistic theories in the flat-space limit.*
-* **[Operational Viability and Consistency of Relativistic Field Theories in the Minkowski Limit: A Candidate Audit for the CST Framework]**
-* **Key Finding:** Validated stability of Ghost Condensates via higher-order dispersion terms and established the "CST Gate" system.
-* 🔗 **[Read on Zenodo](https://doi.org/10.5281/zenodo.18238168)**
+| Paper | Link / DOI | Repository Status |
+| :--- | :--- | :--- |
+| **Record 18299741** | [DOI: 10.5281/zenodo.18299741](https://doi.org/10.5281/zenodo.18299741) | ✅ Active |
+| **Record 18299204** | [View on Zenodo](https://zenodo.org/records/18299204) | ✅ Active |
+| **Record 18298618** | [View on Zenodo](https://zenodo.org/records/18298618) | ✅ Active |
+| **Record 18297506** | [View on Zenodo](https://zenodo.org/records/18297506) | ✅ Active |
+| **Record 18297402** | [View on Zenodo](https://zenodo.org/records/18297402) | ✅ Active |
 
 ---
 
-## 🗄️ Foundational & Precursor Studies
-*Earlier formulations and exploratory research that led to our current models.*
+### 🧪 Methodology: Red-Team & Math Validation
+I utilize an integrated AI-human workflow to ensure mathematical consistency in cosmological modeling:
 
-* **[CST: Causality-Stability Testing for Relativistic Field Theories (Minkowski Reference Implementation)]**
-  * 🔗 **[Read on Zenodo](https://doi.org/10.5281/zenodo.18235508)**
-
-* **[A Luminal, Symmetry-Grounded Dark Energy Mechanism from Kinetic Gravity Braiding (Paper 7 of the Physics Compiler Series)]**
-  * 🔗 **[Read on Zenodo](https://doi.org/10.5281/zenodo.18215905)**
+* **Computational Rigor:** Wolfram Alpha for symbolic integration and calculus validation.
+* **Structural Refinement:** MathosAI for equation consistency and field theory auditing.
+* **Verification:** LLM-driven "Red-Team" drills with Gemini Pro to stress-test theoretical frameworks before publication.
 
 ---
 
-## 📬 Connect & Cite
-* **Zenodo Profile:** [View Full Publication List](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22SIKX%20HILTON%22&l=list&p=1&s=10&sort=bestmatch)
-* **GitHub:** [SikxHilton](https://github.com/SikxHilton)
-
----
-*© 2026 Independent Physics Research Team (IPRT). Maintained by Sikx Hilton.*
+### 🛰️ Core Tech Stack
+* **Physics Synthesis:** Gemini Pro 
+* **Computation:** Wolfram Alpha & MathosAI
+* **Version Control:** GitHub & Zenodo
