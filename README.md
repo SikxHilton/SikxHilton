@@ -14,7 +14,7 @@
 | Paper III | https://doi.org/10.5281/zenodo.18298618 |
 | Paper IV | https://doi.org/10.5281/zenodo.18297506 |
 | Paper V | https://doi.org/10.5281/zenodo.18297402 |
-
+| Paper VI | https://doi.org/10.5281/zenodo.18311327 |
 ---
 
 ### 🧠 Research Focus
